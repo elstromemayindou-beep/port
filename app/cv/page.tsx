@@ -26,7 +26,7 @@ const personalInfo = {
   email: "elstromemayindou@gmail.com",
   phone: "+242066770959",
   location: "CONGO, Brazzaville",
-  github: "github.com/elstromemayindou-bip",
+  github: "github.com/elstromemayindou-beep",
   summary: "Etudiant en 3e annee de genie logiciel avec une experience pratique dans le developpement d'applications mobiles, web et backend. J'ai realise plusieurs projets complets integrant interface utilisateur, logique metier et base de donnees. Profil polyvalent maitrisant le Mobile, Web, Backend, Base de donnees et systemes embarques."
 }
 
@@ -69,8 +69,8 @@ const experiences = [
 const education = [
   {
     degree: "Licence en Genie Logiciel (3e annee)",
-    school: "Votre Universite",
-    location: "Votre Ville, Pays",
+    school: "CFI-CIRAS",
+    location: "Brazzaville, République du Congo",
     period: "2022 - Present",
     details: "Specialisation en developpement d'applications et systemes informatiques"
   }
